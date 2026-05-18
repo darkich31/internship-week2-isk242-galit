@@ -1,2 +1,8 @@
 # internship-week2-isk242-galit
-update	
+
+update
+
+\## CLI Task
+
+Реализация командной строки
+
